@@ -1,0 +1,12 @@
+.kaufman {
+  overflow: hidden;
+  flex-direction: column;
+  padding: 90px 0;
+
+  min-height: 600px;
+  max-height: 756px;
+  position: relative;
+  display: flex;
+  background-color: #1f1f1f;
+  box-sizing: border-box;
+}

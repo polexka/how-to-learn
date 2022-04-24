@@ -1,0 +1,11 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+/* div, p, h1, h2, h3, ul, li, a, footer, main, header, section, img {
+  border: 1px solid red;
+} */
